@@ -1,6 +1,6 @@
-### Olá Mundo!! Meu nome é Diogo!
+### Hello World!! My name is Diogo!
 
-Sou um estudante de Ciência de Dados e Machine Learning.
+I'm Data Scientist and Machine Learning student at UniCEUB.
 
 ##
 
