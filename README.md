@@ -1,7 +1,6 @@
 # Hello World!! My name is Diogo!
 
 I'm Data Scientist and Machine Learning student at UniCEUB.
-- Working at ANVISA!
 - Studying Data Science!
 
 ### Skills
